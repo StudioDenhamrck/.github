@@ -1,5 +1,5 @@
 # **Hej!** This is <u>us</u> 👋
-[![](images/studiodrmrckb.png)](https://twitter.com/StudioDenhamrck)
+[![](https://github.com/StudioDenhamrck/.github/blob/main/profile/images/studiodrmrckb.png)](https://twitter.com/StudioDenhamrck)
 
 ---
 <br />
