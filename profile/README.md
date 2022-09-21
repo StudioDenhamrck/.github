@@ -1,5 +1,5 @@
 # **Hej!** This is <u>us</u> 👋
-<a href="https://twitter.com/StudioDenhamrck"><img src="images/studiodrmrckb.png" alt="A background of palm leaves in black and white with text saying @StudioDenhamrck" /></a>
+[![A background of palm leaves in black and white with text saying @StudioDenhamrck](images/studiodrmrckb.png)](https://twitter.com/StudioDenhamrck)
 
 ---
 <br />
@@ -11,7 +11,7 @@ Here at **[@StudioDenhamrck]** we are a small team of developers. We are current
 <br />
 
 ## Our Projects: ⭐
-**Want [our][@StudioDenhamrck] full list of repositories? [Click here](https://github.com/StudioDenhamrck/.github/profile/REPOS.md)!** \
+**Want [our][@StudioDenhamrck] full list of repositories? [Click here](https://github.com/StudioDenhamrck/.github/blob/main/profile/repos/README.MD)!** \
 Don't get stuck down a rabbit hole while looking! 😅
 
 ## Get in contact. 📧
