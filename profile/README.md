@@ -1,5 +1,5 @@
 # **Hej!** This is <u>us</u> 👋
-[![A background of palm leaves in black and white with text saying @StudioDenhamrck](images/studiodrmrckb.png)](https://twitter.com/StudioDenhamrck)
+[![](images/studiodrmrckb.png)](https://twitter.com/StudioDenhamrck)
 
 ---
 <br />
